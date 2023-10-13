@@ -20,5 +20,5 @@ foi o valor máximo e o mínimo atingido naquele determinado dia.
 Dado a base do exercicio proposto, desenvolvemos o código desse projeto onde criamos um programa utilizando os fundamentos da lógica de programação de maneira estruturada, 
 utilizando recursos básicos como estruturas de decisão e repetição e uso de variáveis, funções e recursividade.
 
-O portfolio foi de suma importancia para abranger conhecimentos basicos na linguagem citada.
+O portfolio foi de suma importancia para abranger conhecimentos basicos na linguagem citada. 
 
